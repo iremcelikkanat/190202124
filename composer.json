@@ -2,7 +2,7 @@
   "name": "iremcelikkanat/190202124",
   "description": "Yii2 Content Module",
   "type": "yii2-extension",
-  "license": "MIT",
+  "license": "MIT", 
   "authors": [
     {
       "name": "iremcelikkanat",
