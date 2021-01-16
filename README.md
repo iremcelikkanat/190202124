@@ -6,3 +6,6 @@ Bu modülde kullanıcılar giriş yaptığı taktirde arayüzdeki tablo üzerind
 - Tablo üzerinde yapılan tüm işlemler sql veri tabanında tutulur.<br>
 - Dinamik olarak veri eklenebilir veya silinebilir.<br>
 
+## Kurulum
+
+
