@@ -26,7 +26,7 @@ Modülü aktif etmek ve tanımlamak için alttaki şekilde editlemelisiniz:
 ],
 
 
-- php yii migrate -- migrationPath=@vendor/iremcelikkanat/190202124/src/Migrations <br>
+- php yii migrate -- migrationPath=@vendor/iremcelikkanat/190202124/src/migrations <br>
 
 - komutu yazılarak migration işlemi gerçekleştirilmeli.Bu işlemlerin ardından modül kurulumunu tamamlanmış olur.<br>
  
