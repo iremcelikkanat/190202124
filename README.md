@@ -11,7 +11,20 @@ Bu modülde kullanıcılar giriş yaptığı taktirde arayüzdeki tablo üzerind
 
 - vagrantlasörü içinde vagrant-up yapılarak vagrant çalıştırılmalı.<br>
 
-- Vagrant çalıştırıldıktan sonra vagrant ssh ile sanal makinaya bağlanıp cd/var/www/advanced komutu çalıştırılıp composer update edilmeli.Daha sonra migration işlemleri için
+- Vagrant çalıştırıldıktan sonra vagrant ssh ile sanal makinaya bağlanıp cd/var/www/advanced komutu çalıştırılıp composer update edilmeli.<br> 
+Modülü aktif etmek ve tanımlamak için alttaki şekilde editlemelisiniz:
+
+
+'modules' => [
+...
+
+'iremcelikkanat' => [
+'class' => 'iremcelikkanat\190202124\Module',
+],
+
+...
+],
+
 
 - php yii migrate -- migrationPath=@vendor/iremcelikkanat/190202124/src/Migrations <br>
 
