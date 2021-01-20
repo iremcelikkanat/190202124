@@ -41,7 +41,7 @@ Modul içerisindeki migration dosyasında 2 adet tablo oluşturulmuştur. Tablol
 
 Modul backend altında kullanıcıya kitap ekleme imkanı sağlamaktadır. <br>
 
-![pic1](https://user-images.githubusercontent.com/56557278/104817145-7801f200-5830-11eb-87e0-ac195c451de4.png)
+![som](https://user-images.githubusercontent.com/56557278/105211461-55881580-5b5d-11eb-883d-13bc4f4ee1c3.png)
 
 Eklenilen veriler silinir veya güncellenebilir.<br>
 
